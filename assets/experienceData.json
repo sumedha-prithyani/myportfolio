@@ -1,0 +1,27 @@
+[
+    {
+        "title":"UI developer - Perficient, Nagpur",
+        "year":"May 2018 - Present",
+        "role":"Design and develop web application for different domain from e-commerce to informational. Worked on technologies WCS, AEM."
+    },
+    {
+        "title":"Front End developer - Tieto, Pune",
+        "year":"Jan 2018 — May 2018",
+        "role": "Design and develop web application for bank domain apps, using technologies angular."
+    },
+    {
+        "title":"Web/Hybrid developer - Freelancer",
+        "year":"July 2017 — Jan 2018",
+        "role": "Design and develop diverse types of mobile application as well as web application for consulting contract, use technologies including angularjs2, Ionic2, laravel etc."
+    },
+    {
+        "title":"Web Developer - Alif IT Solutions Pvt. Ltd., Nagpur",
+        "year":"Jan 2016 — July 2017",
+        "role":"Develop project concepts, prepare mocks wireframes, maintain workflow and complete it within deadlines. Used github and bitbucket platforms. Design, develop and deploy complete web and hybrid applications. Used cordova's external plugins like geo-location, camera etc. Worked on push notifications for android and iOS."
+    },
+    {
+        "title":"Web Operator - php Workshop, Gondia",
+        "year":"July 2013 — July 2014",
+        "role": "Prepared and worked on raw data to make manageable contents. Designed product information data to display on amazon site."
+    }
+  ]

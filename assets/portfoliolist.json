@@ -1,0 +1,115 @@
+[
+    {"name":"Website","sublist":[
+    {"title":"ALIF IT Solutions","more":false, "src":"alif_main.png",
+    "subimg":[]},
+    {"title":"Best Deal Qatar - UI","more":false, "src":"bestdeal_main.jpg",
+    "subimg":[]},
+    {"title":"MyPortfolio","more":false, "src":"myport_main.png",
+    "subimg":[]}
+    ]},
+
+    {"name":"Mobile App","sublist":[
+    {"title":"MomsHome","more":true, "src":"moms_main.png",
+    "subimg":[
+    {"src":"momshome1.png"},
+    {"src":"momshome2.png"},
+    {"src":"momshome3.png"},
+    {"src":"momshome4.png"},
+    {"src":"momshome5.png"}
+    ]},
+    {"title":"ALIFIT (Andr)","more":true, "src":"alifandr_main.png",
+    "subimg":[
+    {"src":"alifandr1.png"},
+    {"src":"alifandr2.png"},
+    {"src":"alifandr3.png"},
+    {"src":"alifandr4.png"},
+    {"src":"alifandr5.png"},
+    {"src":"alifandr6.png"},
+    {"src":"alifandr7.png"},
+    {"src":"alifandr8.png"},
+    {"src":"alifandr9.png"}
+    ]},
+    {"title":"Swank","more":true, "src":"swank_main.png",
+    "subimg":[
+    {"src":"swank1.png"},
+    {"src":"swank2.png"},
+    {"src":"swank3.png"},
+    {"src":"swank4.png"},
+    {"src":"swank5.png"},
+    {"src":"swank6.png"},
+    {"src":"swank7.png"},
+    {"src":"swank8.png"}
+    ]},
+    {"title":"GreenIndia","more":true, "src":"greenindia_main.png",
+    "subimg":[
+    {"src":"greenind0.png"},
+    {"src":"greenind1.png"},
+    {"src":"greenind2.png"},
+    {"src":"greenind3.png"},
+    {"src":"greenind4.png"},
+    {"src":"greenind5.png"}              
+    ]},
+    {"title":"Monitoring","more":true, "src":"just_main.png",
+    "subimg":[
+    {"src":"justoh1.png"},
+    {"src":"justoh2.png"},
+    {"src":"justoh3.png"},
+    {"src":"justoh4.png"},
+    {"src":"justoh5.png"},
+    {"src":"justoh6.png"}
+    ]},
+    {"title":"ALIFIT (iOS)","more":true, "src":"alifios_main.png",
+    "subimg":[
+    {"src":"alifios1.png"},
+    {"src":"alifios2.png"},
+    {"src":"alifios3.png"},
+    {"src":"alifios4.png"}
+    ]}
+  ]
+},
+
+
+{"name":"Web-view","sublist":[
+    {"title":"STMD","more":true, "src":"stmdwv_main.png",
+    "subimg":[
+    {"src":"stmdwv1.png"},
+    {"src":"stmdwv2.png"},
+    {"src":"stmdwv3.png"},
+    {"src":"stmdwv4.png"}
+    ]}
+]},
+{"name":"Admin Panel","sublist":[
+    {"title":"ALIFIT","more":false, "src":"admin_main.png",
+    "subimg":[
+    {"src":"lionhome1.png"},
+    {"src":"lionhome2.png"}
+    ]},
+    {"title":"Swank","more":false, "src":"admin_main.png",
+    "subimg":[
+    {"src":"lionhome1.png"},
+    {"src":"lionhome2.png"}
+    ]},
+    {"title":"RiteWater","more":false, "src":"admin_main.png",
+    "subimg":[
+    {"src":"lionhome1.png"},
+    {"src":"lionhome2.png"}
+    ]}
+]},
+{"name":"App UI","sublist":[
+    {"title":"STMD","more":true, "src":"stmd_main.png",
+    "subimg":[
+    {"src":"stmd0.png"},
+    {"src":"stmd1.png"},
+    {"src":"stmd2.png"},
+    {"src":"stmd3.png"},
+    {"src":"stmd4.png"}
+    ]}
+]},
+{"name":"ERPSystem","sublist":[
+    {"title":"RiteWater","more":false, "src":"erp_main.png",
+    "subimg":[
+    {"src":"lionhome1.png"},
+    {"src":"lionhome2.png"}
+    ]}
+]}
+]

@@ -1,0 +1,18 @@
+[
+     {"title":"AEM", "value":"60"},
+     {"title":"WCS", "value":"70"},
+     {"title":"Angular", "value":"80"},
+     {"title":"Angularjs", "value":"70"},
+     {"title":"Ionic,Cordova", "value":"80"},
+     {"title":"Laravel", "value":"70"},
+     {"title":"Core Php", "value":"50"},
+     {"title":"HTML", "value":"90"},
+     {"title":"CSS", "value":"90"},
+     {"title":"Bootstrap", "value":"90"},
+     {"title":"Web & Hybrid Mockup", "value":"90"},
+     {"title":"Javascript, AJAX, JQUERY, JSON", "value":"70"},
+     {"title":"Google Api, Custom Api, Custom Web service", "value":"80"},
+     {"title":"MySql, Sqlite", "value":"60"},
+     {"title":"Github,bitbucket", "value":"60"},
+     {"title":"Bitbucket", "value":"50"}      
+   ]
