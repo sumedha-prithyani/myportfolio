@@ -1,6 +1,7 @@
 [
      {"title":"AEM", "value":"60"},
      {"title":"WCS", "value":"70"},
+{"title": "Reactjs", "value":"70"},
      {"title":"Angular", "value":"80"},
      {"title":"Angularjs", "value":"70"},
      {"title":"Ionic,Cordova", "value":"80"},
@@ -13,6 +14,6 @@
      {"title":"Javascript, AJAX, JQUERY, JSON", "value":"70"},
      {"title":"Google Api, Custom Api, Custom Web service", "value":"80"},
      {"title":"MySql, Sqlite", "value":"60"},
-     {"title":"Github,bitbucket", "value":"60"},
+     {"title":"Github", "value":"60"},
      {"title":"Bitbucket", "value":"50"}      
    ]
