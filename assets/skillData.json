@@ -1,8 +1,10 @@
 [
+     {"title": "Reactjs", "value":"90"},
+     {"title": "GraphQL", "value":"70"},
+     {"title": "MSW", "value":"70"},
+     {"title":"Angular", "value":"80"},
      {"title":"AEM", "value":"60"},
      {"title":"WCS", "value":"70"},
-{"title": "Reactjs", "value":"70"},
-     {"title":"Angular", "value":"80"},
      {"title":"Angularjs", "value":"70"},
      {"title":"Ionic,Cordova", "value":"80"},
      {"title":"Laravel", "value":"70"},
