@@ -1,9 +1,10 @@
 [
+     {"title": "NextJS", "value":"70"},
      {"title": "Reactjs", "value":"90"},
      {"title": "GraphQL", "value":"70"},
      {"title": "MSW", "value":"70"},
      {"title":"Angular", "value":"80"},
-     {"title":"AEM", "value":"60"},
+     {"title":"AEM", "value":"70"},
      {"title":"WCS", "value":"70"},
      {"title":"Angularjs", "value":"70"},
      {"title":"Ionic,Cordova", "value":"80"},
@@ -13,9 +14,10 @@
      {"title":"CSS", "value":"90"},
      {"title":"Bootstrap", "value":"90"},
      {"title":"Web & Hybrid Mockup", "value":"90"},
-     {"title":"Javascript, AJAX, JQUERY, JSON", "value":"70"},
+     {"title":"Javascript, Typescript, AJAX, JQUERY, JSON", "value":"70"},
      {"title":"Google Api, Custom Api, Custom Web service", "value":"80"},
      {"title":"MySql, Sqlite", "value":"60"},
      {"title":"Github", "value":"60"},
      {"title":"Bitbucket", "value":"50"}      
    ]
+
