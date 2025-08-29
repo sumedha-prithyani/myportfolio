@@ -1,55 +1,33 @@
 [
     {
-        "title":"Technical Lead - Maantic Inc, Remote",
+        "title":"Technical Lead - Maantic Inc., Remote",
         "year":"Nov 2024 - May 2025",
-        "role":"Technology:  ReactJS, NextJS, AEM, React Native, React query, GraphQL query, microfrontend, typescript. Role in project:
-	End to End Development of different functionality in reactjs functional components.
-	Handled real estate module with AEM NEXTJS.
-	Used React query for API integration fetch data. Involved in Unit Testing and bug fixing.
-	Review code and act as individual contributer as well.
-	Handling offshore team and assign task to them.
-	Help team to complete their task in case they face any technical challenge.
-	Design and develop the technical solution based on requirement.
-	Solving the critical issues which require complex calculations and reasoning. "
+        "role":"Technology: ReactJS, NextJS, AEM, React Native, React query, GraphQL query, microfrontend, typescript. Role in project: End to End Development of different functionality in reactjs functional components. Handled real estate module with AEM NEXTJS. Used React query for API integration fetch data. Involved in Unit Testing and bug fixing. Review code and act as individual contributer as well. Handling offshore team and assign task to them. Help team to complete their task in case they face any technical challenge. Design and develop the technical solution based on requirement. Solving the critical issues which require complex calculations and reasoning. "
     },
     {
         "title":"Technical Lead - ValueLabs, Hyderabad",
         "year":"Aug 2021 - Nov 2024",
-        "role":"Technology:  ReactJS, Microfrontend, graphQL, Nextjs, AEM, typescript. Role in project:
-	End to End Development of different functionality, migrate the Panda project into AEM React Microfrontend and GraphQL react-query. 
-	Developed Insurance pages with account creation and claim pages with SSN module.
-	Setting up Build and Release pipeline using Azure DevOps .
-	Handling offshore team from Onshore, Involved in Unit Testing and bug fixing.
-	Gether the requirement from team and distribute to Offshore .
-	Help team to complete their task in case they face any technical challenge.
-	Design and develop the technical solution based on requirement. Implementing functionalities according to the client BRD's."
+        "role":"Technology: ReactJS, Microfrontend, graphQL, Nextjs, AEM, typescript. Role in project: End to End Development of different functionality, migrate the Panda project into AEM React Microfrontend and GraphQL react-query. Developed Insurance pages with account creation and claim pages with SSN module. Setting up Build and Release pipeline using Azure DevOps. Handling offshore team from Onshore, Involved in Unit Testing and bug fixing. Gether the requirement from team and distribute to Offshore. Help team to complete their task in case they face any technical challenge. Design and develop the technical solution based on requirement. Implementing functionalities according to the client BRD's."
     },
     {
-        "title":"Technical Specialist - Brillio, Banglore",
+        "title":"Technical Specialist - Brillio, Bangalore",
         "year":"Sep 2020 - Aug 2021",
-        "role":"Technology:  React Native, ReactJS, Redux, GraphQL. Role in project: 
-	Creating Single page web and mobile application for using react native and reactjs.
-	Learned FHIR epic apis to integrate into mobile react application. To fetch patients and their doctors information. Display exact diseases informations.
-	Involved in requirements gathering clarifications to share to offshore team.
-	Involved in Unit Testing and bug fixing."
+        "role":"Technology: NextJS, React Native, ReactJS, Redux, GraphQL. Role in project: Creating Single page web and mobile application for using react native and reactjs. Learned FHIR epic apis to integrate into mobile react application. To fetch patients and their doctors information. Display exact diseases informations. Involved in requirements gathering clarifications to share to offshore team. Involved in Unit Testing and bug fixing."
     },
     {
         "title":"UI developer - Perficient, Nagpur",
         "year":"May 2018 - Sep 2020",
-        "role":"Technology:  AEM with core Javascript HTL. Role in project: 
-	Learned HTL known as sightly for html components.
-	Involved in component content management.
-	Involved in Unit Testing and bug fixing."
+        "role":"Technology: WCS, ReactJS, AEM with core Javascript HTL. Role in project: Learned HTL known as sightly for html components. Involved in component content management. Involved in Unit Testing and bug fixing."
     },
     {
         "title":"Front End developer - Tieto, Pune",
         "year":"Jan 2018 — May 2018",
-        "role": "Design and develop web application for bank domain apps, using technologies angular."
+        "role": "Technology: Angular, ReactJS. Design and develop web application for bank domain apps, using technologies angular."
     },
     {
         "title":"Web Developer - Alif IT Solutions Pvt. Ltd., Nagpur",
         "year":"Jan 2016 — Jan 2018",
-        "role":"Develop project concepts, prepare mocks wireframes, maintain workflow and complete it within deadlines. Used github and bitbucket platforms. Design, develop and deploy complete web and hybrid applications. Used cordova's external plugins like geo-location, camera etc. Worked on push notifications for android and iOS."
+        "role":"Technology: Angular, php, laravel, React Native, ReactJS, Redux, GraphQL. Develop project concepts, prepare mocks wireframes, maintain workflow and complete it within deadlines. Used github and bitbucket platforms. Design, develop and deploy complete web and hybrid applications. Used cordova's external plugins like geo-location, camera etc. Worked on push notifications for android and iOS."
     },
     {
         "title":"Web Operator - php Workshop, Gondia",
@@ -57,4 +35,5 @@
         "role": "Prepared and worked on raw data to make manageable contents. Designed product information data to display on amazon site."
     }
   ]
+
 
